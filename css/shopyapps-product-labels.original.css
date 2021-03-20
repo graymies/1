@@ -1,0 +1,136 @@
+.shopyapps-product-labels {
+  position:relative!important;
+}
+
+.shopyapps-product-labels .shopyapps-product-labels-badge {
+  background-color:transparent!important;
+  border: none!important;
+  position:absolute!important;
+  max-width: 30%!important;
+  top:0!important;
+  left:0!important;
+  z-index: 1!important;
+  transform: inherit!important;
+  content:''!important;
+}
+
+.shopyapps-product-labels .shopyapps-product-labels-badge-3631-collection-page {
+adjust: true!important;
+width: 43.49418002521614%!important;
+max-width: 43.49418002521614%!important;
+top: 0!important;
+left: 0!important;
+bottom: auto!important;
+right: auto!important;
+content: url('../images/shopyapps-product-labels-3631.png')!important;
+}
+
+.shopyapps-product-labels .shopyapps-product-labels-badge-3631-product-page {
+adjust: true!important;
+width: 43.49418002521614%!important;
+max-width: 43.49418002521614%!important;
+top: 0!important;
+left: 0!important;
+bottom: auto!important;
+right: auto!important;
+content: url('../images/shopyapps-product-labels-3631.png')!important;
+}
+
+.shopyapps-product-labels .shopyapps-product-labels-badge-3631-search-page {
+adjust: true!important;
+width: 43.49418002521614%!important;
+max-width: 43.49418002521614%!important;
+top: 0!important;
+left: 0!important;
+bottom: auto!important;
+right: auto!important;
+content: url('../images/shopyapps-product-labels-3631.png')!important;
+}
+
+.shopyapps-product-labels .shopyapps-product-labels-badge-4366-collection-page {
+adjust: true!important;
+width: 35.0188%!important;
+max-width: 35.0188%!important;
+top: 0%!important;
+left: 0%!important;
+content: url('../images/shopyapps-product-labels-4366.png')!important;
+}
+
+.shopyapps-product-labels .shopyapps-product-labels-badge-4366-product-page {
+adjust: true!important;
+width: 35.0188%!important;
+max-width: 35.0188%!important;
+top: 0%!important;
+left: 0%!important;
+content: url('../images/shopyapps-product-labels-4366.png')!important;
+}
+
+.shopyapps-product-labels .shopyapps-product-labels-badge-4366-search-page {
+adjust: true!important;
+width: 35.0188%!important;
+max-width: 35.0188%!important;
+top: 0%!important;
+left: 0%!important;
+content: url('../images/shopyapps-product-labels-4366.png')!important;
+}
+
+.shopyapps-product-labels .shopyapps-product-labels-badge-4570-collection-page {
+adjust: true!important;
+width: 44.901330601585016%!important;
+max-width: 44.901330601585016%!important;
+top: 0!important;
+left: 0!important;
+bottom: auto!important;
+right: auto!important;
+content: url('../images/shopyapps-product-labels-4570.png')!important;
+}
+
+.shopyapps-product-labels .shopyapps-product-labels-badge-4570-product-page {
+adjust: true!important;
+width: 44.901330601585016%!important;
+max-width: 44.901330601585016%!important;
+top: 0!important;
+left: 0!important;
+bottom: auto!important;
+right: auto!important;
+content: url('../images/shopyapps-product-labels-4570.png')!important;
+}
+
+.shopyapps-product-labels .shopyapps-product-labels-badge-4570-search-page {
+adjust: true!important;
+width: 44.901330601585016%!important;
+max-width: 44.901330601585016%!important;
+top: 0!important;
+left: 0!important;
+bottom: auto!important;
+right: auto!important;
+content: url('../images/shopyapps-product-labels-4570.png')!important;
+}
+
+.shopyapps-product-labels .shopyapps-product-labels-badge-4710-collection-page {
+width: 30%!important;
+top: 0!important;
+left: auto!important;
+bottom: auto!important;
+right: 0!important;
+content: url('../images/shopyapps-product-labels-4710.png')!important;
+}
+
+.shopyapps-product-labels .shopyapps-product-labels-badge-4710-product-page {
+width: 30%!important;
+top: 0!important;
+left: auto!important;
+bottom: auto!important;
+right: 0!important;
+content: url('../images/shopyapps-product-labels-4710.png')!important;
+}
+
+.shopyapps-product-labels .shopyapps-product-labels-badge-4710-search-page {
+width: 30%!important;
+top: 0!important;
+left: auto!important;
+bottom: auto!important;
+right: 0!important;
+content: url('../images/shopyapps-product-labels-4710.png')!important;
+}
+
